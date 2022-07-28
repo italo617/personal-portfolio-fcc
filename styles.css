@@ -122,18 +122,18 @@ h2 {
     }
 }
 
-#container-projects .project {
+#container-projects .project-tile {
     width: 300px;
     background-color: var(--html-dark);
     border-radius: 1rem;
     text-align: center;
 }
 
-#container-projects .project img {
+#container-projects .project-tile img {
     border-radius: 1rem; 
 }
 
-.project-title {
+#container-projects .project-tile p{
     color: black;
     margin: 0;
     padding: 1rem;
